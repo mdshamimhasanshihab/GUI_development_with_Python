@@ -1,0 +1,1 @@
+input = self.myText_Box.get("1.0",'end-1c')
